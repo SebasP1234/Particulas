@@ -1,0 +1,12 @@
+[project]
+name = "particulas"
+version = "0.1.0"
+description = "Animacion de particulas bidimencionales en movimiento"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    'numpy',
+    'matplotlib',
+    'manim',
+    "requests>=2.33.1",
+]
